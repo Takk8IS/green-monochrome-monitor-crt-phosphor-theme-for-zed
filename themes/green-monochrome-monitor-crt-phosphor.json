@@ -192,12 +192,12 @@
                "comment":{
                   "color":"#00000080",
                   "font_style":"normal",
-                  "font_weight":400
+                  "font_weight":500
                },
                "comment.doc":{
                   "color":"#00000080",
                   "font_style":"normal",
-                  "font_weight":400
+                  "font_weight":500
                },
                "constant":{
                   "color":"#00FF00",
@@ -574,12 +574,12 @@
                "comment":{
                   "color":"#00000080",
                   "font_style":"normal",
-                  "font_weight":400
+                  "font_weight":500
                },
                "comment.doc":{
                   "color":"#00000080",
                   "font_style":"normal",
-                  "font_weight":400
+                  "font_weight":500
                },
                "constant":{
                   "color":"#00FF66",
@@ -956,12 +956,12 @@
                "comment":{
                   "color":"#00000080",
                   "font_style":"normal",
-                  "font_weight":400
+                  "font_weight":500
                },
                "comment.doc":{
                   "color":"#00000080",
                   "font_style":"normal",
-                  "font_weight":400
+                  "font_weight":500
                },
                "constant":{
                   "color":"#00FF66",
@@ -1338,12 +1338,12 @@
                "comment":{
                   "color":"#00000080",
                   "font_style":"normal",
-                  "font_weight":400
+                  "font_weight":500
                },
                "comment.doc":{
                   "color":"#00000080",
                   "font_style":"normal",
-                  "font_weight":400
+                  "font_weight":500
                },
                "constant":{
                   "color":"#00FF66",
@@ -1720,12 +1720,12 @@
                "comment":{
                   "color":"#00000080",
                   "font_style":"normal",
-                  "font_weight":400
+                  "font_weight":500
                },
                "comment.doc":{
                   "color":"#00000080",
                   "font_style":"normal",
-                  "font_weight":400
+                  "font_weight":500
                },
                "constant":{
                   "color":"#00FF66",
@@ -2102,12 +2102,12 @@
                "comment":{
                   "color":"#00FF0080",
                   "font_style":"normal",
-                  "font_weight":400
+                  "font_weight":500
                },
                "comment.doc":{
                   "color":"#00FF0080",
                   "font_style":"normal",
-                  "font_weight":400
+                  "font_weight":500
                },
                "constant":{
                   "color":"#000000",
@@ -2484,12 +2484,12 @@
                "comment":{
                   "color":"#00640080",
                   "font_style":"normal",
-                  "font_weight":400
+                  "font_weight":500
                },
                "comment.doc":{
                   "color":"#00640080",
                   "font_style":"normal",
-                  "font_weight":400
+                  "font_weight":500
                },
                "constant":{
                   "color":"#00FF66",
@@ -2866,12 +2866,12 @@
                "comment":{
                   "color":"#00640080",
                   "font_style":"normal",
-                  "font_weight":400
+                  "font_weight":500
                },
                "comment.doc":{
                   "color":"#00640080",
                   "font_style":"normal",
-                  "font_weight":400
+                  "font_weight":500
                },
                "constant":{
                   "color":"#00FF66",
@@ -3248,12 +3248,12 @@
                "comment":{
                   "color":"#00640080",
                   "font_style":"normal",
-                  "font_weight":400
+                  "font_weight":500
                },
                "comment.doc":{
                   "color":"#00640080",
                   "font_style":"normal",
-                  "font_weight":400
+                  "font_weight":500
                },
                "constant":{
                   "color":"#00FF66",
@@ -3630,12 +3630,12 @@
                "comment":{
                   "color":"#00240080",
                   "font_style":"normal",
-                  "font_weight":400
+                  "font_weight":500
                },
                "comment.doc":{
                   "color":"#00240080",
                   "font_style":"normal",
-                  "font_weight":400
+                  "font_weight":500
                },
                "constant":{
                   "color":"#00FF66",
