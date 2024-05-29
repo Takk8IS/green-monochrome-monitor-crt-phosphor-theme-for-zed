@@ -1,5 +1,10 @@
 # Change Log
 
+## [1.3] - 2024-05-29
+
+-   We've updated the GUI parameter for the background of some items to enhance user readability.
+-   Added versions Green Monochrome Monitor CRT Phosphor Dark I and Green Monochrome Monitor CRT Phosphor Dark II.
+
 ## [1.2] - 2024-05-27
 
 -   Creation of the first release, updated colours to match exact phosphor specifications from the CRT manual.
