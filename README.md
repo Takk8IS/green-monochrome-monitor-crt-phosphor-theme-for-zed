@@ -1,3 +1,5 @@
+![Green Monochrome Monitor CRT Phosphor](https://github.com/Takk8IS/green-monochrome-monitor-crt-phosphor-theme-for-zed/blob/main/assets/icon.jpg?raw=true)
+
 # Green Monochrome Monitor CRT Phosphor Theme for Zed
 
 The "Green Monochrome Monitor CRT Phosphor" brings the nostalgic essence of vintage green phosphor monitors to your Zed editor. This theme is crafted to offer a unique and immersive visual experience, capturing the original charm of early computing displays. Available in both dark and light versions, the Green Monochrome Monitor CRT Phosphor Theme transforms your coding environment with its distinct green-on-black and green-on-light-green aesthetics.
@@ -8,43 +10,43 @@ The theme includes eight distinct variants, each designed to emulate specific ty
 
 ### Green Monochrome Monitor CRT Phosphor Dark
 
-![Green Monochrome Monitor CRT Phosphor Dark](./assets/screenshot-dark.png)
+![Green Monochrome Monitor CRT Phosphor Dark](https://github.com/Takk8IS/green-monochrome-monitor-crt-phosphor-theme-for-zed/blob/main/assets/screenshot-dark.png?raw=true)
 
 ### Green Monochrome Monitor CRT Phosphor Dark P1
 
-![Green Monochrome Monitor CRT Phosphor Dark P1](./assets/screenshot-dark-p1.png)
+![Green Monochrome Monitor CRT Phosphor Dark P1](https://github.com/Takk8IS/green-monochrome-monitor-crt-phosphor-theme-for-zed/blob/main/assets/screenshot-dark-p1.png?raw=true)
 
 ### Green Monochrome Monitor CRT Phosphor Dark P31
 
-![Green Monochrome Monitor CRT Phosphor Dark P31](./assets/screenshot-dark-p31.png)
+![Green Monochrome Monitor CRT Phosphor Dark P31](https://github.com/Takk8IS/green-monochrome-monitor-crt-phosphor-theme-for-zed/blob/main/assets/screenshot-dark-p31.png?raw=true)
 
 ### Green Monochrome Monitor CRT Phosphor Dark P39 I
 
-![Green Monochrome Monitor CRT Phosphor Dark P39 I](./assets/screenshot-dark-p39-i.png)
+![Green Monochrome Monitor CRT Phosphor Dark P39 I](https://github.com/Takk8IS/green-monochrome-monitor-crt-phosphor-theme-for-zed/blob/main/assets/screenshot-dark-p39-i.png?raw=true)
 
 ### Green Monochrome Monitor CRT Phosphor Dark P39 II
 
-![Green Monochrome Monitor CRT Phosphor Dark P39 II](./assets/screenshot-dark-p39-ii.png)
+![Green Monochrome Monitor CRT Phosphor Dark P39 II](https://github.com/Takk8IS/green-monochrome-monitor-crt-phosphor-theme-for-zed/blob/main/assets/screenshot-dark-p39-ii.png?raw=true)
 
 ### Green Monochrome Monitor CRT Phosphor Light
 
-![Green Monochrome Monitor CRT Phosphor Light](./assets/screenshot-light.png)
+![Green Monochrome Monitor CRT Phosphor Light](https://github.com/Takk8IS/green-monochrome-monitor-crt-phosphor-theme-for-zed/blob/main/assets/screenshot-light.png?raw=true)
 
 ### Green Monochrome Monitor CRT Phosphor Light P1
 
-![Green Monochrome Monitor CRT Phosphor Light P1](./assets/screenshot-light-p1.png)
+![Green Monochrome Monitor CRT Phosphor Light P1](https://github.com/Takk8IS/green-monochrome-monitor-crt-phosphor-theme-for-zed/blob/main/assets/screenshot-light-p1.png?raw=true)
 
 ### Green Monochrome Monitor CRT Phosphor Light P31
 
-![Green Monochrome Monitor CRT Phosphor Light P31](./assets/screenshot-light-p31.png)
+![Green Monochrome Monitor CRT Phosphor Light P31](https://github.com/Takk8IS/green-monochrome-monitor-crt-phosphor-theme-for-zed/blob/main/assets/screenshot-light-p31.png?raw=true)
 
 ### Green Monochrome Monitor CRT Phosphor Light P39 I
 
-![Green Monochrome Monitor CRT Phosphor Light P39 I](./assets/screenshot-light-p39-i.png)
+![Green Monochrome Monitor CRT Phosphor Light P39 I](https://github.com/Takk8IS/green-monochrome-monitor-crt-phosphor-theme-for-zed/blob/main/assets/screenshot-light-p39-i.png?raw=true)
 
 ### Green Monochrome Monitor CRT Phosphor Light P39 II
 
-![Green Monochrome Monitor CRT Phosphor Light P39 II](./assets/screenshot-light-p39-ii.png)
+![Green Monochrome Monitor CRT Phosphor Light P39 II](https://github.com/Takk8IS/green-monochrome-monitor-crt-phosphor-theme-for-zed/blob/main/assets/screenshot-light-p39-ii.png?raw=true)
 
 ## Theme Overview
 
