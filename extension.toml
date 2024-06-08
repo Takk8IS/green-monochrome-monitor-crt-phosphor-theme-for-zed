@@ -1,7 +1,7 @@
 authors = ["David C Cavalcante <davcavalcante@proton.me>","Takk™ Innovate Studio <say@takk.ag>"]
-description = "Designed to replicate the classic CRT monitors, black background with vibrant green text in the dark, while the light has a soft green background for contrast."
+description = "📺 Designed to replicate the classic CRT monitors, black background with vibrant green text in the dark, while the light has a soft green background for contrast."
 id = "green-monochrome-monitor-crt-phosphor"
-name = "Green Monochrome Monitor CRT Phosphor"
+name = "Green Monochrome Monitor CRT Phosphor Theme"
 repository = "https://github.com/takk8is/green-monochrome-monitor-crt-phosphor-theme-for-zed"
 schema_version = 1
 version = "0.1.3"
